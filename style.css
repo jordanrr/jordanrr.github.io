@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+  color: #222;
+}
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin-right: 18px;
+  text-decoration: none;
+  color: #222;
+}
+
+.portrait {
+  width: 220px;
+  display: block;
+  margin-bottom: 24px;
+  border-radius: 6px;
+}
+
+h2 {
+  margin-top: 28px;
+}
